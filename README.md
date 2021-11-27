@@ -5,7 +5,7 @@ Files for ROS to ESP8266 microcontroller connection. ESP8266 is a popular microc
 <h6> ESP8266/ ESP32 microcontroller
 <h6> ROS kinetic or noetic
   
-<h2> Installation
+  <h2> Installation</h2>
   Install ROS,ROS server, rosserial, gather the IP of the server
   Configure WiFi parameters on EspRos code, to allow microcontroller to connect to Ros server. 
   After that, all standard ROS commands can be used. 
